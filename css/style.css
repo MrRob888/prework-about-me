@@ -20,7 +20,7 @@ body {
 .masthead-intro {
     margin-bottom: 0.1em;
     font-size: 2em;
-    color: #ffffff;
+    color: #a70000;
 }
 
 .masthead-heading {
@@ -29,7 +29,7 @@ body {
     font-size: 6em;
     letter-spacing: -0.02em;
     text-transform: uppercase;
-    color: #ffffff;
+    color: #a70000;
 }
 
 .details {
